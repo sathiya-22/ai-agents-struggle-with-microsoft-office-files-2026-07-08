@@ -1,0 +1,1 @@
+- 2026-07-17: iteration 1 (see commit for details)
